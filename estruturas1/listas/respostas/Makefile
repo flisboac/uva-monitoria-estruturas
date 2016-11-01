@@ -4,7 +4,7 @@ RM=rm -f
 CP=cp -r
 
 WIN_EXE_CC=i686-w64-mingw32-gcc -m32 -o
-LIN_EXE_CC=gcc -o
+LIN_EXE_CC=gcc -m32 -o
 
 FONTES=$(wildcard *.c)
 RESPOSTAS=$(wildcard *.txt)
