@@ -31,3 +31,12 @@
 # Debug files
 *.dSYM/
 *.su
+*.exe
+*_lin
+install
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.bz
+*.7z
+*.rar
